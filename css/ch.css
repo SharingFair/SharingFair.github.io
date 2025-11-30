@@ -1,0 +1,163 @@
+h1 {
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+}
+
+h3.cent {
+    text-align: center;
+    justify-content: center;
+    justify-self: center;
+    justify-items: center;
+}
+
+span.und {
+    text-decoration: underline;
+}
+
+span.bx {
+    border: 1px solid rgb(10, 10, 66);
+    padding: 1%;
+}
+
+span.bld {
+    font-weight: 1000;
+}
+
+div.bx {
+    border: 4px solid black;
+}
+div.bxo {
+    border: 2px solid black;
+}
+div.bxb {
+    border-bottom: 4px solid black;
+}
+
+div.und {
+    text-decoration: underline;
+}
+
+div.bld {
+    font-weight: 1000;
+}
+
+ol.fl {
+    display: flex;
+    list-style-type: none;
+}
+
+ol.none {
+    list-style-type: none;
+}
+
+ol.cent {
+    text-align: center;
+}
+
+ol.sp {
+    list-style-type: ".ㅤㅤ";
+}
+
+ol.osp {
+    list-style-type: "1.ㅤㅤ";
+}
+
+ol.tsp {
+    list-style-type: "2.ㅤㅤ";
+}
+
+ol.thsp {
+    list-style-type: "3.ㅤㅤ";
+}
+
+ol.fosp {
+    list-style-type: "4.ㅤㅤ";
+}
+
+ol.fisp {
+    list-style-type: "5.ㅤㅤ";
+}
+ol.sisp {
+    list-style-type: "6.ㅤㅤ";
+}
+ol.sesp {
+    list-style-type: "7.ㅤㅤ";
+}
+ol.eisp {
+    list-style-type: "8.ㅤㅤ";
+}
+ol.nisp {
+    list-style-type: "9.ㅤㅤ";
+}
+ol.tesp {
+    list-style-type: "10.ㅤㅤ";
+}
+li.sp {
+    list-style-type: ".ㅤㅤ";
+}
+
+li.osp {
+    list-style-type: "1.ㅤㅤ";
+}
+
+li.tsp {
+    list-style-type: "2.ㅤㅤ";
+}
+
+li.thsp {
+    list-style-type: "3.ㅤㅤ";
+}
+
+li.fosp {
+    list-style-type: "4.ㅤㅤ";
+}
+
+li.fisp {
+    list-style-type: "5.ㅤㅤ";
+}
+li.sisp {
+    list-style-type: "6.ㅤㅤ";
+}
+li.sesp {
+    list-style-type: "7.ㅤㅤ";
+}
+li.eisp {
+    list-style-type: "8.ㅤㅤ";
+}
+li.nisp {
+    list-style-type: "9.ㅤㅤ";
+}
+li.tesp {
+    list-style-type: "10.ㅤㅤ";
+}
+
+ul.none {
+    list-style-type: none;
+}
+
+ul.arl {
+    list-style-type: ">ㅤ";
+}
+
+li.bx {
+    margin: 20px;
+}
+
+li.cent {
+    text-align: center;
+}
+.m{
+    margin: auto;
+}
+.dl{
+    border-radius: 15%;
+    background-color: rgb(125, 184, 233);
+    border: 2px solid rgb(18, 67, 107);
+    text-decoration: none;
+    padding: 1%;
+    padding-left: 2%;
+    padding-right: 2%;
+}

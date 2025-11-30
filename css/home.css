@@ -1,0 +1,28 @@
+h1 {
+    text-align: center;
+    justify-content: center;
+    justify-items: center;
+    justify-self: center;
+}
+
+h2 {
+    text-align: center;
+    justify-content: center;
+    justify-items: center;
+    justify-self: center;
+}
+
+/* li:hover {
+    transform: scale(1);
+    transform: rotate(1deg);
+    transition: li 1s ease;
+} */
+
+main ul {
+    justify-self: center;
+}
+
+li {
+    list-style-type: none;
+    margin-top: 20px;
+}
